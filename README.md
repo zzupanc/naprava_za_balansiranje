@@ -1,9 +1,9 @@
-![Page 1](naprava_za_balansiranje/readme_files/stekam_prispevek-1.png)
-![Page 2](naprava_za_balansiranje/readme_files/stekam_prispevek-2.png)
-![Page 3](naprava_za_balansiranje/readme_files/stekam_prispevek-3.png)
-![Page 4](naprava_za_balansiranje/readme_files/stekam_prispevek-4.png)
-![Page 5](naprava_za_balansiranje/readme_files/stekam_prispevek-5.png)
-![Page 6](naprava_za_balansiranje/readme_files/stekam_prispevek-6.png)
-![Page 7](naprava_za_balansiranje/readme_files/stekam_prispevek-7.png)
-![Page 8](naprava_za_balansiranje/readme_files/stekam_prispevek-8.png)
-![Page 9](naprava_za_balansiranje/readme_files/stekam_prispevek-9.png)
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-1.png" alt="Page 1">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-2.png" alt="Page 2">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-3.png" alt="Page 3">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-4.png" alt="Page 4">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-5.png" alt="Page 5">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-6.png" alt="Page 6">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-7.png" alt="Page 7">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-8.png" alt="Page 8">
+<img src="naprava_za_balansiranje/readme_files/stekam_prispevek-9.png" alt="Page 9">
