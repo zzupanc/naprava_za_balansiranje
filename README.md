@@ -2,6 +2,7 @@
 
 <span style="font-size: larger;">[**Diplomsko delo**](https://repozitorij.uni-lj.si/Dokument.php?id=172952&lang=slv)</span>
 
+<br><br>
 
 <img src="readme_files/stekam_prispevek-1.png" alt="Page 1">
 <img src="readme_files/stekam_prispevek-2.png" alt="Page 2">
