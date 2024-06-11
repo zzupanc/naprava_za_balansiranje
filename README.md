@@ -1,6 +1,6 @@
 # Avtomatizacija določitve neuravnoteženosti rotorjev v odprtokodnem programskem okolju
 
-[**Diplomsko delo**](https://repozitorij.uni-lj.si/Dokument.php?id=172952&lang=slv)
+<span style="font-size: larger;">[**Diplomsko delo**](https://repozitorij.uni-lj.si/Dokument.php?id=172952&lang=slv)</span>
 
 
 <img src="readme_files/stekam_prispevek-1.png" alt="Page 1">
